@@ -87,3 +87,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Jeeyoon Hyun - [Attaching the NYT API to WordEater](https://jeeyoon-gatsby-blog.netlify.app/blog/2021/09/attaching-the-new-york-times-api-to-wordeater/)
 - David Currie - [pokemon api](https://davidalexandercurrie.com/blog/apis/)
 - Nick Parisi - [Who's That Pokemon](https://wp.nyu.edu/spacethewhale/whos-that-pokemon-api-part-1/)
+- Casta Zhu - [Animal Crossing KK's songs](https://solstice-license-eb4.notion.site/Week3-Assignment-13db8d669a214bbaa92189b99acdb9f7)
